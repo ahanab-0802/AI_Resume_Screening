@@ -17,3 +17,4 @@ python-docx
 beautifulsoup4
 weasyprint
 jinja2
+python-magic
