@@ -1,0 +1,10 @@
+Job Title: Junior Cloud / DevOps Engineer
+
+Required Skills:
+Linux, AWS, Docker, Kubernetes, Terraform, CI/CD, Jenkins, Git, Python, Bash, Networking, Cloud Computing.
+
+Responsibilities:
+Deploy applications to cloud infrastructure; build CI/CD pipelines; manage containers and Kubernetes workloads; automate infrastructure provisioning; monitor cloud systems; troubleshoot deployment and networking issues.
+
+Preferred:
+AWS certification, infrastructure as code, monitoring tools and scripting experience.
