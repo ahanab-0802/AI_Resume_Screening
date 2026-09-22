@@ -1,5 +1,6 @@
 import os
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from jinja2 import Environment, FileSystemLoader
 from typing import Dict
 
@@ -23,7 +24,7 @@ env.filters['format_date'] = format_date
 
 def generate_html_reports(analysis_data: Dict) -> Dict[str, str]:
     """Render the current Resume-JD summary report."""
-    now = datetime.now().isoformat()
+    now = datetime.now(ZoneInfo("Asia/Kolkata")).isoformat()
 
     candidate_name = (
         analysis_data.get('candidate_name')
