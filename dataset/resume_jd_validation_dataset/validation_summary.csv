@@ -1,6 +1,0 @@
-test_id,resume_domain,jd_domain,expected_matched_count,expected_missing_count
-test_01,AI/ML,Software Engineering,5,6
-test_02,AI/ML,Data Science,9,8
-test_03,Java Backend,Data Science,1,12
-test_04,Java Backend,Cybersecurity,1,11
-test_05,Frontend,Cloud/DevOps,1,11

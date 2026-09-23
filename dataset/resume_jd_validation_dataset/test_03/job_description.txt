@@ -1,7 +1,0 @@
-Job Title: Data Scientist
-
-Required Skills:
-Python, R, SQL, Statistics, Probability, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Exploratory Data Analysis, Machine Learning, Feature Engineering.
-
-Responsibilities:
-Analyze structured datasets; perform statistical analysis; build predictive models; preprocess data; create analytical visualizations.
